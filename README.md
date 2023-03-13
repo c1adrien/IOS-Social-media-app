@@ -1,2 +1,2 @@
 # IOS-Social-media-app
-The goal was to make a link between Junior entreprise and students 
+Myself and two other students from Les Mines, David Sada and Wenjing YE, collaborated on a project aimed at connecting Junior entreprise and students, with the objective of providing a digital solution. Unfortunately, another application with a similar purpose was developed and released one month prior to our deadline. Despite the challenge of completing such a significant program with only three students, we were able to make some initial progress.
